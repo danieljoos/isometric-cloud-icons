@@ -21,6 +21,8 @@ There are a lot of good articles about how to draw isometric style in inkscape:
 [low-block-rounded-blue]: http://rawgit.com/danieljoos/isometric-cloud-icons/master/low-block-rounded-blue.svg "Low Block (rounded, blue)"
 [webapp]: http://rawgit.com/danieljoos/isometric-cloud-icons/master/webapp.svg "Web Application"
 
+<style>.markdown-body table td img { background: none;}</style>
+
 | Description               | Preview  |
 | ------------------------- | :------: |
 | AWS API Gateway           | ![AWS API Gateway][aws-api-gateway] |
