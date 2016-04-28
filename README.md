@@ -1,6 +1,15 @@
 # Isometric Cloud Icons
 Simple isometric icons that can be used for drawing cloud architecture diagrams
 
+Glyphs inside some of the icons have been taken from the incredible [Font Awesome](https://fortawesome.github.io/Font-Awesome/).
+
+For example, use [Inkscape](https://inkscape.org/) to draw an isometric cloud architecture diagram.
+There are a lot of good articles about how to draw isometric style in inkscape:
+
+* [Learn to Draw 2D Art](http://ahninniah.blogspot.de/2013/04/isometric-projection-in-inkscape.html)
+* [Playing With Isometric Projection in Inkscape](http://design.tutsplus.com/tutorials/playing-with-isometric-projection-in-inkscape-to-make-a-minecraft-scene--vector-21757)
+* [Creating Isometric art in Inkscape](https://inkscapetutorials.org/2015/02/03/creating-isometric-art-in-inkscape/)
+
 ## Available Icons
 
 [aws-api-gateway]: http://rawgit.com/danieljoos/isometric-cloud-icons/master/aws-api-gateway.svg "AWS API Gateway"
