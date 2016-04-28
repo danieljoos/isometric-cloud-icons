@@ -13,7 +13,7 @@ Simple isometric icons that can be used for drawing cloud architecture diagrams
 [webapp]: http://rawgit.com/danieljoos/isometric-cloud-icons/master/webapp.svg "Web Application"
 
 | Description               | Preview  |
-| ------------------------- | -------- |
+| ------------------------- | :------: |
 | AWS API Gateway           | ![AWS API Gateway][aws-api-gateway] |
 | AWS Cognito Identity Pool | ![AWS Cognito Identity Pool][aws-cognito-identity-pool] |
 | AWS DynamoDB              | ![AWS DynamoDB][aws-dynamodb] |
