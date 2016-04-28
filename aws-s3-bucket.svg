@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg4177"
+   viewBox="0 0 156.96327 180.62945"
+   height="50.977646mm"
+   width="44.298523mm">
+  <title
+     id="title4757">Isometric Cloud Icons - AWS S3</title>
+  <defs
+     id="defs4179" />
+  <metadata
+     id="metadata4182">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Isometric Cloud Icons - AWS S3</dc:title>
+        <dc:date>2016-04-28</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Daniel Joos</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-81.518365,-247.76176)"
+     id="layer1">
+    <g
+       id="g4776">
+      <path
+         id="path4838"
+         d="M 160,426.65917 113.97109,400.08437 83.28515,293.78516 160,338.0765 Z"
+         style="fill:#cccdcf;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path4840"
+         d="M 206.02891,400.08437 160,426.65917 l 0,-88.58267 76.71485,-44.29134 z"
+         style="fill:#b4b4b4;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 83.28515,293.7852 160,249.49386 236.71485,293.7852 160,338.07654 Z"
+         id="path4184" />
+      <path
+         id="path4850"
+         d="M 160,426.65917 113.97109,400.08437 83.28515,293.78516 160,249.49381 l 76.71485,44.29135 -30.68594,106.29921 z"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         style="fill:#707070;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4215-6"
+         cx="386.16122"
+         cy="201.40915"
+         transform="matrix(0.8660254,0.50000001,-0.86602541,0.5,0,0)"
+         rx="23.89352"
+         ry="23.744387" />
+      <path
+         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path4222-7"
+         d="m 178.89111,296.21184 -6.00449,-3.4667 c -0.56292,-0.325 -1.52846,-0.60088 -2.42129,-0.73541 l 4.70476,-2.7163 c 0.76022,-0.43891 0.75635,-1.15335 -0.009,-1.59502 l -6.00448,-3.46669 c -0.765,-0.44167 -2.27777,-0.80162 -3.34254,-0.80354 l -11.74128,-0.0212 c -1.06477,-0.002 -2.57366,0.35257 -3.33388,0.79148 l -9.63902,5.56509 c -0.76022,0.43891 -0.75635,1.15335 0.009,1.59502 l 7.85203,4.53337 -4.13101,2.38504 c -0.76021,0.43891 -0.75634,1.15334 0.009,1.59502 l 13.85651,8.00006 c 0.76499,0.44167 2.00244,0.44391 2.76265,0.005 l 17.44204,-10.07017 c 0.76022,-0.43891 0.75634,-1.15335 -0.009,-1.59502 z m -10.90725,-2.76943 -4.28879,2.47613 -4.31573,-2.49169 8.60452,0.0156 z m -3.72967,-8.51343 -4.28879,2.47614 -4.31573,-2.49169 8.60452,0.0156 z m -6.45138,6.9914 c -1.06478,-0.002 -2.57367,0.35256 -3.33389,0.79148 l -3.672,2.12003 -7.39014,-4.2667 9.18001,-5.30008 6.00449,3.46669 c 0.765,0.44167 2.00243,0.44391 2.76266,0.005 l 5.96701,-3.44505 5.5426,3.20002 -5.96701,3.44506 -9.09373,-0.0164 z m 2.26638,14.62496 -12.93275,-7.46672 9.18001,-5.30009 6.0045,3.4667 c 0.76499,0.44167 2.00243,0.4439 2.76265,0.005 l 5.96701,-3.44506 5.54261,3.20003 -16.52403,9.54015 z" />
+    </g>
+  </g>
+</svg>
