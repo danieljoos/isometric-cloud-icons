@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="30.00931mm"
+   height="46.608105mm"
+   viewBox="0 0 106.3322 165.14683"
+   id="svg3356"
+   version="1.1">
+  <title
+     id="title4416">Isometric Cloud Icons - AWS CloudFront</title>
+  <defs
+     id="defs3358" />
+  <metadata
+     id="metadata3361">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Isometric Cloud Icons - AWS CloudFront</dc:title>
+        <dc:date>2016-06-16</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Daniel Joos</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-54.234691,-484.27837)">
+    <path
+       style="fill:#cecece;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.371879,609.44882 0,-106.29921 61.371881,35.43307 0,106.29921 z"
+       id="path3444" />
+    <path
+       style="fill:#b6b7b8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 122.74376,538.58268 30.68594,-17.71654 0,106.29921 -30.68594,17.71654 z"
+       id="path3446" />
+    <path
+       style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.371879,503.14961 30.68594,-17.71654 61.371881,35.43307 -30.68594,17.71654 z"
+       id="path3448" />
+    <path
+       style="fill:#cecece;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 128.88095,648.4252 -6.13719,-10.62992 -6.13719,10.62992 z"
+       id="path3450" />
+    <path
+       style="fill:#b6b7b8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 153.4297,620.07874 6.13719,3.54331 0,7.08661 z"
+       id="path3454" />
+    <path
+       style="fill:#cecece;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.371879,602.3622 -6.137188,3.54331 0,7.08662 z"
+       id="path3458" />
+    <path
+       style="fill:#b6b7b8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 122.74376,637.79528 30.68594,-17.71654 6.13719,10.62992 -30.68594,17.71654 z"
+       id="path3452" />
+    <path
+       style="fill:#cecece;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 122.74376,637.79528 61.371879,602.3622 55.234691,612.99213 116.60657,648.4252 Z"
+       id="path3456" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 61.371879,503.14961 0,99.21259 -6.137188,3.54331 0,7.08662 61.371879,35.43307 12.27438,0 30.68594,-17.71654 0,-7.08661 -6.13719,-3.54331 0,-99.2126 -61.371881,-35.43307 z"
+       id="path4260" />
+    <ellipse
+       style="fill:#595959;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4269-4"
+       cx="106.29921"
+       cy="520.86615"
+       transform="matrix(0.8660254,0.5,0,1,0,0)"
+       rx="26.564356"
+       ry="26.398552" />
+    <path
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4267-4"
+       d="m 98.986033,580.85505 c -1.623798,-0.9375 -3.112279,-1.06487 -4.214149,-0.52539 l -6.959129,-8.01063 c 0.01931,-0.23285 0.03863,-0.48789 0.03863,-0.73189 0,-0.244 -0.01931,-0.52134 -0.03863,-0.77649 l 6.959129,0.0251 c 1.10187,1.81182 2.590351,3.4032 4.214149,4.3407 3.421567,1.97545 6.185887,0.39939 6.185887,-3.52684 0,-3.92624 -2.76432,-8.69426 -6.185887,-10.6697 -3.42158,-1.97545 -6.185898,-0.3994 -6.185898,3.52684 0,0.244 0.01931,0.52134 0.03862,0.77649 l -6.959129,-0.0251 c -1.101862,-1.81181 -2.590343,-3.4032 -4.214141,-4.3407 -3.421579,-1.97545 -6.185898,-0.39939 -6.185898,3.52685 0,3.92623 2.764319,8.69425 6.185898,10.6697 1.623798,0.9375 3.112279,1.06487 4.214141,0.52537 L 92.83876,583.65 c -0.01931,0.23285 -0.03862,0.48789 -0.03862,0.73189 0,3.92623 2.764318,8.69425 6.185898,10.6697 3.421567,1.97544 6.185887,0.39939 6.185887,-3.52684 0,-3.92624 -2.76432,-8.69426 -6.185887,-10.6697 z" />
+  </g>
+</svg>

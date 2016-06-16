@@ -13,6 +13,7 @@ There are a lot of good articles about how to draw isometric style in inkscape:
 ## Available Icons
 
 [aws-api-gateway]: http://rawgit.com/danieljoos/isometric-cloud-icons/master/aws-api-gateway.svg "AWS API Gateway"
+[aws-cloudfront]: http://rawgit.com/danieljoos/isometric-cloud-icons/master/aws-cloudfront.svg "AWS CloudFront"
 [aws-cognito-identity-pool]: http://rawgit.com/danieljoos/isometric-cloud-icons/master/aws-cognito-identity-pool.svg "AWS Cognito Identity Pool"
 [aws-dynamodb]: http://rawgit.com/danieljoos/isometric-cloud-icons/master/aws-dynamodb.svg "AWS DynamoDB"
 [aws-lambda]: http://rawgit.com/danieljoos/isometric-cloud-icons/master/aws-lambda.svg "AWS Lambda"
@@ -24,6 +25,7 @@ There are a lot of good articles about how to draw isometric style in inkscape:
 | Description               | Preview  |
 | ------------------------- | :------: |
 | AWS API Gateway           | ![AWS API Gateway][aws-api-gateway] |
+| AWS CloudFront            | ![AWS CloudFront][aws-cloudfront] |
 | AWS Cognito Identity Pool | ![AWS Cognito Identity Pool][aws-cognito-identity-pool] |
 | AWS DynamoDB              | ![AWS DynamoDB][aws-dynamodb] |
 | AWS Lambda                | ![AWS Lambda][aws-lambda] |
